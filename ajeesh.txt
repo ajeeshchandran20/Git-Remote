@@ -1,1 +1,2 @@
 #this is a sample file created from browser to check the pull feature into local repository
+#trying the fetch feature 
